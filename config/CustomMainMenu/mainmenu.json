@@ -1,0 +1,239 @@
+{
+    "images":
+    {
+		"mainbuttons":
+        {
+            "image" : "test:textures/buttonsBackground.png",
+            "posX" : 20,
+            "posY" : 30,
+            "width" : 140,
+            "height" : 100,
+            "alignment" : "center_left"
+        },
+		
+		"modpackpagesbuttons":
+        {
+            "image" : "test:textures/buttonsBackground.png",
+            "posX" : -95,
+            "posY" : -170,
+            "width" : 90,
+            "height" : 150,
+            "alignment" : "bottom_right"
+        }
+    },
+    
+    "buttons":
+    {
+        "singleplayer":
+        {
+            "text" : "menu.singleplayer",
+            "posX" : 30,
+            "posY" : 40,
+            "width" : 120,
+            "height" : 20,
+			"alignment" : "center_left",
+			"texture" : "test:textures/buttonBlue.png",
+			"shadow" : true,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "singleplayer"
+            }
+        },
+        
+        "multiplayer":
+        {
+            "text" : "menu.multiplayer",
+            "posX" : 30,
+            "posY" : 60,
+            "width" : 120,
+            "height" : 20,
+			"alignment" : "center_left",
+			"texture" : "test:textures/buttonBlue.png",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "multiplayer"
+            }
+        },
+		
+		"options":
+        {
+            "text" : "menu.options",
+            "posX" : 30,
+            "posY" : 80,
+            "width" : 120,
+            "height" : 20,
+			"alignment" : "center_left",
+			"texture" : "test:textures/buttonBlue.png",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+        },
+        
+        "quit":
+        {
+            "text" : "menu.quit",
+            "posX" : 30,
+            "posY" : 100,
+            "width" : 120,
+            "height" : 20,
+			"alignment" : "center_left",
+			"texture" : "test:textures/buttonBlue.png",
+            "action" : 
+            {
+                "type" : "quit"
+            }
+        },
+		"refresh":
+        {
+            "text" : "",
+            "posX" : -20,
+            "posY" : 0,
+            "width" : 20,
+            "height" : 20,
+			"alignment" : "top_right",
+			"texture" : "custommainmenu:textures/gui/buttonDefault.png",
+            "action" : 
+            {
+                "type" : "refresh"
+            }
+        },
+		"bugtracker": 
+		{
+            "text": "Bug Reporter",
+            "posX": -90,
+            "posY": -165,
+            "width": 80,
+            "height": 20,
+            "alignment": "bottom_right",
+			"texture" : "test:textures/buttonBlue.png",
+            "tooltip": "Report a bug!",
+            "action": {
+                "type": "openLink",
+                "link": "https://github.com/MJRLegends/Space-Astronomy-Feedback-/issues"
+            }
+		},
+		"changelog": 
+		{
+            "text": "Changelog",
+            "posX": -90,
+            "posY": -145,
+            "width": 80,
+            "height": 20,
+            "alignment": "bottom_right",
+			"texture" : "test:textures/buttonBlue.png",
+			"tooltip": "View Changelog!",
+            "action": {
+                "type": "openLink",
+                "link": "http://pastebin.com/Zmx3n72i"
+            }
+		},
+		"knownissues": 
+		{
+            "text": "Known Issues",
+            "posX": -90,
+            "posY": -125,
+            "width": 80,
+            "height": 20,
+            "alignment": "bottom_right",
+			"texture" : "test:textures/buttonBlue.png",
+			"tooltip": "View Known Issues!",
+            "action": {
+                "type": "openLink",
+                "link": "http://pastebin.com/R73aBeqA"
+            }
+		},
+		"sevrerfiles": 
+		{
+            "text": "Server Files",
+            "posX": -90,
+            "posY": -105,
+            "width": 80,
+            "height": 20,
+            "alignment": "bottom_right",
+			"texture" : "test:textures/buttonBlue.png",
+			"tooltip": "Get Server Files!",
+            "action": {
+                "type": "openLink",
+                "link": "http://ftb.cursecdn.com/FTB2/modpacks/SpaceAstronomy/1_5_8/SpaceAstronomyServer.zip"
+            }
+		},
+		"curse": 
+		{
+            "text": "Curse Page",
+            "posX": -90,
+            "posY": -85,
+            "width": 80,
+            "height": 20,
+            "alignment": "bottom_right",
+			"texture" : "test:textures/buttonBlue.png",
+			"tooltip": "View CurseForge Mod Pack Page!",
+            "action": {
+                "type": "openLink",
+                "link": "http://minecraft.curseforge.com/modpacks/233384-space-astronomy"
+            }
+		},
+		"ftb": 
+		{
+            "text": "FTB Thread",
+            "posX": -90,
+            "posY": -65,
+            "width": 80,
+            "height": 20,
+            "alignment": "bottom_right",
+			"texture" : "test:textures/buttonBlue.png",
+			"tooltip": "View FTB Fourms Thread!",
+            "action": {
+                "type": "openLink",
+                "link": "http://forum.feed-the-beast.com/threads/1-7-10-space-astronomy-space-hqm-tech-new-server-list-added.72018/"
+            }
+		},
+		"mc forums": 
+		{
+            "text": "MC Forums",
+            "posX": -90,
+            "posY": -45,
+            "width": 80,
+            "height": 20,
+            "alignment": "bottom_right",
+			"texture" : "test:textures/buttonBlue.png",
+			"tooltip": "View Minecraft Fourms Thread!",
+            "action": {
+                "type": "openLink",
+                "link": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/mod-packs/2382728-1-7-10-ftb-space-astronomy-space-hqm-tech"
+            }
+		}
+    },
+    
+    "texts":
+    {
+        "mojang":
+        {
+            "text" : "Copyright Mojang AB. Do not distribute!",
+            "posX" : -197,
+            "posY" : -10,
+            "color" : -1,
+            "alignment" : "bottom_right"
+        },
+		"modpackversion":
+        {
+            "text" : "Mod Pack Version - V1.5.9",
+            "posX" : 2,
+            "posY" : -10,
+            "color" : -2,
+            "alignment" : "bottom_left"
+        }
+    },
+    
+    "other":
+    {
+        "background":
+        {
+			"image" : "test:textures/background.png",
+			"mode" : stretch
+        }
+    }
+}
