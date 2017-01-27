@@ -4628,7 +4628,7 @@ TConstruct:Redstone.Landmine:1, Landmine
 TConstruct:Redstone.Landmine:2, Landmine
 TConstruct:Redstone.Landmine:3, Landmine
 TConstruct:Armor.DryingRack, Drying Rack
-ExtraUtilities:endConstructor:0, QED (Quantum Entanglement Diviner)
+ExtraUtilities:endConstructor:0, QED (Quacky Ender Device)
 ExtraUtilities:endConstructor:2, Ender-Flux Crystal
 ExtraUtilities:endMarker, Ender-Marker
 ExtraUtilities:curtains, Blackout Curtains
