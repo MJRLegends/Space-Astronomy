@@ -158,7 +158,7 @@
 			"tooltip": "Get Server Files!",
             "action": {
                 "type": "openLink",
-                "link": "http://ftb.cursecdn.com/FTB2/modpacks/SpaceAstronomy/1_5_8/SpaceAstronomyServer.zip"
+                "link": "http://ftb.cursecdn.com/FTB2/modpacks/SpaceAstronomy/1_5_9/SpaceAstronomyServer.zip"
             }
 		},
 		"curse": 
