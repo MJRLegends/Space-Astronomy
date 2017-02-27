@@ -1367,6 +1367,18 @@ BuildCraft|Core:engineBlock:2, Combustion Engine
 BuildCraft|Core:engineBlock:3, Creative Engine
 BuildCraft|Core:markerBlock, Land Mark
 BuildCraft|Core:pathMarkerBlock, Path Mark
+BuildCraft|Robotics:zonePlan, Zone Planner
+BuildCraft|Robotics:requester, Requester
+BuildCraft|Factory:miningWellBlock, Mining Well
+BuildCraft|Factory:plainPipeBlock, Mining Pipe
+BuildCraft|Factory:autoWorkbenchBlock, Auto Workbench
+BuildCraft|Factory:tankBlock, Tank
+BuildCraft|Factory:pumpBlock, Pump
+BuildCraft|Factory:floodGateBlock, Flood Gate
+BuildCraft|Factory:refineryBlock, Refinery
+BuildCraft|Factory:blockHopper, Chute
+BuildCraft|Transport:filteredBufferBlock, Filtered Buffer
+BuildCraft|Transport:pipeBlock, tile.pipeBlock.name
 BuildCraft|Energy:blockOil, Oil
 BuildCraft|Energy:blockFuel, Fuel
 BuildCraft|Energy:blockRedPlasma, tile.blockRedPlasma.name
@@ -1385,18 +1397,6 @@ BuildCraft|Builders:builderBlock, Builder
 BuildCraft|Builders:architectBlock, Architect Table
 BuildCraft|Builders:libraryBlock, Electronic Library
 BuildCraft|Builders:constructionMarkerBlock, Construction Mark
-BuildCraft|Robotics:zonePlan, Zone Planner
-BuildCraft|Robotics:requester, Requester
-BuildCraft|Transport:filteredBufferBlock, Filtered Buffer
-BuildCraft|Transport:pipeBlock, tile.pipeBlock.name
-BuildCraft|Factory:miningWellBlock, Mining Well
-BuildCraft|Factory:plainPipeBlock, Mining Pipe
-BuildCraft|Factory:autoWorkbenchBlock, Auto Workbench
-BuildCraft|Factory:tankBlock, Tank
-BuildCraft|Factory:pumpBlock, Pump
-BuildCraft|Factory:floodGateBlock, Flood Gate
-BuildCraft|Factory:refineryBlock, Refinery
-BuildCraft|Factory:blockHopper, Chute
 Railcraft:fluid.creosote, Creosote
 Railcraft:fluid.steam, Steam
 Railcraft:cube:0, Block of Coal Coke
@@ -4628,7 +4628,7 @@ TConstruct:Redstone.Landmine:1, Landmine
 TConstruct:Redstone.Landmine:2, Landmine
 TConstruct:Redstone.Landmine:3, Landmine
 TConstruct:Armor.DryingRack, Drying Rack
-ExtraUtilities:endConstructor:0, QED (Quacky Ender Device)
+ExtraUtilities:endConstructor:0, QED (Quite Elegant Device)
 ExtraUtilities:endConstructor:2, Ender-Flux Crystal
 ExtraUtilities:endMarker, Ender-Marker
 ExtraUtilities:curtains, Blackout Curtains
@@ -6329,12 +6329,12 @@ openmodularturrets:teleporterTurret, Teleporter Turret
 openmodularturrets:laserTurret, Laser Turret
 openmodularturrets:railGunTurret, Rail Gun Turret
 openmodularturrets:leverBlock, Basic Turret Base Crank
-OpenPeripheral:ticketmachine, Ticket Machine
-OpenPeripheral:peripheralproxy, Peripheral Proxy
 OpenPeripheral:glassesbridge, Terminal Glasses Bridge
 OpenPeripheral:pim, PIM
 OpenPeripheral:sensor, Sensor
 OpenPeripheral:selector, Item Selector
+OpenPeripheral:ticketmachine, Ticket Machine
+OpenPeripheral:peripheralproxy, Peripheral Proxy
 openprinter:openprinter.printer, Open Printer
 openprinter:openprinter.shredder, Open Shredder
 openprinter:openprinter.filecabinet, Open File Cabinet
@@ -10498,20 +10498,6 @@ BuildCraft|Core:ironGearItem, Iron Gear
 BuildCraft|Core:goldGearItem, Gold Gear
 BuildCraft|Core:diamondGearItem, Diamond Gear
 BuildCraft|Core:paintbrush, Paintbrush
-BuildCraft|Energy:bucketOil, Oil Bucket
-BuildCraft|Energy:bucketFuel, Fuel Bucket
-BuildCraft|Silicon:redstoneChipset:0, Redstone Chipset
-BuildCraft|Silicon:redstoneChipset:1, Iron Chipset
-BuildCraft|Silicon:redstoneChipset:2, Golden Chipset
-BuildCraft|Silicon:redstoneChipset:3, Diamond Chipset
-BuildCraft|Silicon:redstoneChipset:4, Pulsating Chipset
-BuildCraft|Silicon:redstoneChipset:5, Quartz Chipset
-BuildCraft|Silicon:redstoneChipset:6, Redstone Comp Chipset
-BuildCraft|Silicon:redstoneChipset:7, Emerald Chipset
-BuildCraft|Silicon:package, Package
-BuildCraft|Silicon:redstoneCrystal, Redstone Crystal
-BuildCraft|Builders:templateItem, Template
-BuildCraft|Builders:blueprintItem, Blueprint
 BuildCraft|Robotics:robot, Robot
 BuildCraft|Robotics:robotStation, item.robotStation.name
 BuildCraft|Robotics:redstone_board, Redstone Board
@@ -10595,6 +10581,20 @@ BuildCraft|Transport:pipeLens:32, Lens (Clear)
 BuildCraft|Transport:pipeLens:33, Filter (Clear)
 BuildCraft|Transport:pipePowerAdapter, item.pipePowerAdapter.name
 BuildCraft|Transport:gateCopier, Gate Copier
+BuildCraft|Energy:bucketOil, Oil Bucket
+BuildCraft|Energy:bucketFuel, Fuel Bucket
+BuildCraft|Silicon:redstoneChipset:0, Redstone Chipset
+BuildCraft|Silicon:redstoneChipset:1, Iron Chipset
+BuildCraft|Silicon:redstoneChipset:2, Golden Chipset
+BuildCraft|Silicon:redstoneChipset:3, Diamond Chipset
+BuildCraft|Silicon:redstoneChipset:4, Pulsating Chipset
+BuildCraft|Silicon:redstoneChipset:5, Quartz Chipset
+BuildCraft|Silicon:redstoneChipset:6, Redstone Comp Chipset
+BuildCraft|Silicon:redstoneChipset:7, Emerald Chipset
+BuildCraft|Silicon:package, Package
+BuildCraft|Silicon:redstoneCrystal, Redstone Crystal
+BuildCraft|Builders:templateItem, Template
+BuildCraft|Builders:blueprintItem, Blueprint
 Railcraft:fluid.creosote.bucket, Creosote Bucket
 Railcraft:fluid.creosote.bottle, Creosote Bottle
 Railcraft:fluid.creosote.can, Creosote Can
@@ -10941,6 +10941,7 @@ OpenComputers:item:100, Hover Upgrade (Tier 2)
 OpenComputers:item:53, Inventory Upgrade
 OpenComputers:item:61, Inventory Controller Upgrade
 OpenComputers:item:85, Leash Upgrade
+OpenComputers:item:112, MFU
 OpenComputers:item:36, Navigation Upgrade
 OpenComputers:item:75, Piston Upgrade
 OpenComputers:item:35, Sign I/O Upgrade
@@ -16810,11 +16811,11 @@ ThermalDynamics:cover:0, Honey Cover
 ThermalDynamics:cover:0, Water Spring Cover
 ThermalDynamics:cover:0, Oil Spring Cover
 ThermalDynamics:cover:0, tile.buildToolBlock.name Cover
+ThermalDynamics:cover:0, Mining Pipe Cover
 ThermalDynamics:cover:0, Oil Cover
 ThermalDynamics:cover:0, Fuel Cover
 ThermalDynamics:cover:0, tile.blockRedPlasma.name Cover
 ThermalDynamics:cover:0, Frame Cover
-ThermalDynamics:cover:0, Mining Pipe Cover
 ThermalDynamics:cover:0, Creosote Cover
 ThermalDynamics:cover:0, Steam Cover
 ThermalDynamics:cover:0, Block of Coal Coke Cover
