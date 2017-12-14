@@ -20,3 +20,6 @@ wirelessRedstone.log
 tipcache.dat
 stats/
 servers.dat
+.curseclient
+minecraftinstance.json
+fonts/
