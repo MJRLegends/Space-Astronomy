@@ -42,6 +42,10 @@ ironBars.remove(<minecraft:iron_bars>);
 val myEntry = <ore:bronze>;
 myEntry.add(<Mekanism:Ingot:2>);
 
+val myEntry2 = <ore:ingotIridium>;
+myEntry2.add(<MorePlanet:fronos_item:3>);
+myEntry2.add(<AdvancedSolarPanel:asp_crafting_items:10>);
+
 // ================================================================================
 //#MARKER REMOVE
 recipes.remove(<EnderIO:itemMaterial:10>);
