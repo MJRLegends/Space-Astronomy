@@ -1,5 +1,4 @@
 # Space-Astronomy
-
 Configs & Scripts for the Space Astronomy Mod Pack
 
 ##### Issue Tracker - https://github.com/MJRLegends/Space-Astronomy-Feedback-/issues/
