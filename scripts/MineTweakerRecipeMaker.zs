@@ -48,6 +48,8 @@ myEntry2.add(<AdvancedSolarPanel:asp_crafting_items:10>);
 
 // ================================================================================
 //#MARKER REMOVE
+recipes.remove(<minecraft:flint_and_steel>);
+recipes.remove(<MineFactoryReloaded:machine.2>);
 recipes.remove(<cfm:ItemEnvelope>);
 recipes.remove(<cfm:ItemEnvelopeSigned>);
 recipes.remove(<cfm:ItemPackage>);
@@ -182,6 +184,7 @@ recipes.removeShaped(<Railcraft:ingot:3> * 9, [[<Railcraft:cube:11>]]);
 
 // ================================================================================
 //#MARKER ADD SHAPELESS
+recipes.addShapeless(<minecraft:flint_and_steel>, [<ore:ingotSteel>, <ore:itemFlint>]);
 recipes.addShapeless(<GalacticraftMars:item.carbonFragments> * 8, [<ore:charcoal>, <ore:charcoal>]);
 recipes.addShapeless(<GalacticraftMars:item.carbonFragments> * 12, [<ore:coal>, <ore:coal>]);
 recipes.addShapeless(<TConstruct:ToolStationBlock:13>, [<TConstruct:ToolStationBlock:10>, <minecraft:log:3>]);
@@ -219,6 +222,7 @@ recipes.addShapeless(<IC2:itemBarrel>,[<ore:woodRubber>, <ore:plankWood>, <ore:p
 
 // ================================================================================
 //#MARKER ADD SHAPED
+recipes.addShaped(<MineFactoryReloaded:machine.2>, [[<ore:sheetPlastic>, <ore:sheetPlastic>, <ore:sheetPlastic>], [<ore:glowstone>, <ore:glowstone>, <ore:glowstone>], [<ore:gemDiamond>, <MineFactoryReloaded:machineblock>, <ore:gemDiamond>]]);
 recipes.addShaped(<BigReactors:BRIngot:2>, [[<minecraft:coal>, <ore:gemMimichite>], [<ore:gemMimichite>, null]]);
 recipes.addShaped(<TConstruct:materials:6>, [[<ore:stoneMossy>, <ore:stoneMossy>, <ore:stoneMossy>], [<ore:stoneMossy>, null, <ore:stoneMossy>], [<ore:stoneMossy>, <ore:stoneMossy>, <ore:stoneMossy>]]);
 recipes.addShaped(<ExtraUtilities:curtains> * 12, [[<ore:blockWool>, <ore:blockWool>, <ore:blockWool>], [<ore:blockWool>, <ore:blockWool>, <ore:blockWool>], [null, null, null]]);
