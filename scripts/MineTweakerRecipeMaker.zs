@@ -283,9 +283,6 @@ recipes.addShaped(<BiomesOPlenty:saplings>, [[<minecraft:sapling:*>, <minecraft:
 recipes.addShaped(<opensecurity:keypadLock>, [[<minecraft:wooden_button:*>, <minecraft:wooden_button>],[<minecraft:wooden_button:*>, <minecraft:wooden_button>]]);
 // ================================================================================
 
-
-
-
 // ================================================================================
 //#MARKER ADD FURNACE RECIPES
 furnace.addRecipe(<GalacticraftCore:item.meteoricIronIngot>, <MorePlanet:dark_asteroid_block:6>);
@@ -296,8 +293,6 @@ furnace.addRecipe(<GalacticraftCore:item.meteoricIronIngot>, <MorePlanet:dark_as
 //OutputStack, InputArray
 mods.extraUtils.QED.addShapedRecipe(<ExtraUtilities:magnumTorch>, [[<minecraft:potion:8225>, <ExtraUtilities:chandelier>, <minecraft:potion:16181>], [<ExtraUtilities:chandelier>, <ore:logWood>, <ExtraUtilities:chandelier>], [<ExtraUtilities:chandelier>, <ore:logWood>, <ExtraUtilities:chandelier>]]);
 // ================================================================================
-
-
 
 // ================================================================================
 //#MARKER REMOVE TE SAWMILL
@@ -322,5 +317,3 @@ mods.thermalexpansion.Sawmill.removeRecipe(<StorageDrawersBop:trim:11>);
 mods.thermalexpansion.Sawmill.removeRecipe(<StorageDrawersBop:trim:12>);
 mods.thermalexpansion.Sawmill.removeRecipe(<StorageDrawersBop:trim:13>);
 mods.thermalexpansion.Sawmill.removeRecipe(<StorageDrawersBop:trim:14>);
-
-// ================================================================================
