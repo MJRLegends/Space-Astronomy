@@ -48,6 +48,7 @@ myEntry2.add(<AdvancedSolarPanel:asp_crafting_items:10>);
 
 // ================================================================================
 //#MARKER REMOVE
+recipes.remove(<TConstruct:materials:6>);
 recipes.remove(<ExtraUtilities:curtains>);
 recipes.remove(<cfm:ItemCouch>);
 recipes.remove(<EnderIO:itemMaterial:10>);
@@ -156,6 +157,7 @@ recipes.removeShapeless(<minecraft:diamond>, [<ore:nuggetDiamond>, <ore:nuggetDi
 
 // ================================================================================
 //#MARKER REMOVE SHAPED
+recipes.removeShaped(<BigReactors:BRIngot:2>, [[<minecraft:coal>, <ore:gemMimichite>]]);
 recipes.removeShaped(<minecraft:paper> * 2, [[null, <ore:pulpWood>, null], [<ore:pulpWood>, <ore:listAllwater>, <ore:pulpWood>], [null, <ore:pulpWood>, null]]);
 recipes.removeShaped(<JotatosPracticalities:diamondShard> * 3, [[<ore:gemDiamond>]]);
 
@@ -213,6 +215,8 @@ recipes.addShapeless(<IC2:itemBarrel>,[<ore:woodRubber>, <ore:plankWood>, <ore:p
 
 // ================================================================================
 //#MARKER ADD SHAPED
+recipes.addShaped(<BigReactors:BRIngot:2>, [[<minecraft:coal>, <ore:gemMimichite>], [<ore:gemMimichite>, null]]);
+recipes.addShaped(<TConstruct:materials:6>, [[<ore:stoneMossy>, <ore:stoneMossy>, <ore:stoneMossy>], [<ore:stoneMossy>, null, <ore:stoneMossy>], [<ore:stoneMossy>, <ore:stoneMossy>, <ore:stoneMossy>]]);
 recipes.addShaped(<ExtraUtilities:curtains> * 12, [[<ore:blockWool>, <ore:blockWool>, <ore:blockWool>], [<ore:blockWool>, <ore:blockWool>, <ore:blockWool>], [null, null, null]]);
 recipes.addShaped(<cfm:ItemCouch>, [[null, null, null], [<ore:blockWool>, <ore:blockWool>, <ore:blockWool>], [<ore:blockWool>, <ore:blockWool>, <ore:blockWool>]]);
 recipes.addShaped(<JotatosPracticalities:diamondShard> * 9, [[<ore:gemDiamond>, null, null], [null, null, null], [null, null, null]]);
