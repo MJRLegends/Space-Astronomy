@@ -48,6 +48,10 @@ myEntry2.add(<AdvancedSolarPanel:asp_crafting_items:10>);
 
 // ================================================================================
 //#MARKER REMOVE
+recipes.remove(<cfm:ItemEnvelope>);
+recipes.remove(<cfm:ItemEnvelopeSigned>);
+recipes.remove(<cfm:ItemPackage>);
+recipes.remove(<cfm:ItemPackageSigned>);
 recipes.remove(<TConstruct:materials:6>);
 recipes.remove(<ExtraUtilities:curtains>);
 recipes.remove(<cfm:ItemCouch>);

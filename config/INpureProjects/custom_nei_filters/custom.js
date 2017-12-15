@@ -43,6 +43,11 @@ NEI.hide("IC2:blockRubWood");
 NEI.hide("IC2:blockRubLeaves");
 NEI.hide("IC2:blockRubSapling");
 NEI.hide("ThermalExpansion:Workbench");
+NEI.hide("cfm:ItemEnvelope");
+NEI.hide("cfm:ItemEnvelopeSigned");
+NEI.hide("cfm:ItemPackage");
+NEI.hide("cfm:ItemPackageSigned");
+
 
 NEI.override("ProjRed|Expansion:projectred.expansion.machine2", [0,1,2,3,4,5,6,7,8,9,11]);
 NEI.override("pressure:Canister", [0]);
