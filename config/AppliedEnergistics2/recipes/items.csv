@@ -4873,7 +4873,7 @@ TConstruct:Redstone.Landmine:1, Landmine
 TConstruct:Redstone.Landmine:2, Landmine
 TConstruct:Redstone.Landmine:3, Landmine
 TConstruct:Armor.DryingRack, Drying Rack
-ExtraUtilities:endConstructor:0, QED (Quacky Ender Device)
+ExtraUtilities:endConstructor:0, QED (Quantum Enrichment Device)
 ExtraUtilities:endConstructor:2, Ender-Flux Crystal
 ExtraUtilities:endMarker, Ender-Marker
 ExtraUtilities:curtains, Blackout Curtains
@@ -6643,11 +6643,11 @@ openmodularturrets:teleporterTurret, Teleporter Turret
 openmodularturrets:laserTurret, Laser Turret
 openmodularturrets:railGunTurret, Rail Gun Turret
 openmodularturrets:leverBlock, Basic Turret Base Crank
+OpenPeripheral:peripheralproxy, Peripheral Proxy
 OpenPeripheral:glassesbridge, Terminal Glasses Bridge
 OpenPeripheral:pim, PIM
 OpenPeripheral:sensor, Sensor
 OpenPeripheral:selector, Item Selector
-OpenPeripheral:peripheralproxy, Peripheral Proxy
 OpenPeripheral:ticketmachine, Ticket Machine
 openprinter:openprinter.printer, Open Printer
 openprinter:openprinter.shredder, Open Shredder
@@ -13351,7 +13351,7 @@ props:props:1401, Industrial FootLamp Coral
 props:props:1402, Industrial FootLamp Cyan
 props:props:1403, Industrial FootLamp Gray
 props:props:1404, Office Chair 3
-props:props:1405, Industrial FootLamp Black
+props:props:1405, Office Chair 3 Black
 props:props:1406, Tulip Vase
 props:props:1407, Tulip Vase Dark Blue
 props:props:1408, Tulip Vase Orange

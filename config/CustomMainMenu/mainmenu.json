@@ -158,7 +158,7 @@
 			"tooltip": "Get Server Files!",
             "action": {
                 "type": "openLink",
-                "link": "http://ftb.cursecdn.com/FTB2/modpacks/SpaceAstronomy/1_6_3/SpaceAstronomyServer.zip"
+                "link": "http://ftb.cursecdn.com/FTB2/modpacks/SpaceAstronomy/1_6_4/SpaceAstronomyServer.zip"
             }
 		},
 		"curse": 
@@ -220,7 +220,7 @@
         },
 		"modpackversion":
         {
-            "text" : "Mod Pack Version - V1.6.3",
+            "text" : "Mod Pack Version - V1.6.4",
             "posX" : 2,
             "posY" : -10,
             "color" : -2,
