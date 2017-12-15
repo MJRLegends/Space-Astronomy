@@ -4493,7 +4493,7 @@ extracells:hardmedrive, Blast resistant ME Drive [WIP]
 extracells:vibrantchamberfluid, Fluid Vibration Chamber
 ExtraUtilities:chestMini, Mini-Chest
 ExtraUtilities:chestFull, Slightly Larger Chest
-ExtraUtilities:endConstructor:0, QED (Quod Erat Demonstrandum)
+ExtraUtilities:endConstructor:0, QED (Quantum Enrichment Device)
 ExtraUtilities:endConstructor:2, Ender-Flux Crystal
 ExtraUtilities:endMarker, Ender-Marker
 ExtraUtilities:curtains, Blackout Curtains
@@ -6645,12 +6645,12 @@ openmodularturrets:teleporterTurret, Teleporter Turret
 openmodularturrets:laserTurret, Laser Turret
 openmodularturrets:railGunTurret, Rail Gun Turret
 openmodularturrets:leverBlock, Basic Turret Base Crank
-OpenPeripheral:ticketmachine, Ticket Machine
+OpenPeripheral:peripheralproxy, Peripheral Proxy
 OpenPeripheral:glassesbridge, Terminal Glasses Bridge
 OpenPeripheral:pim, PIM
 OpenPeripheral:sensor, Sensor
 OpenPeripheral:selector, Item Selector
-OpenPeripheral:peripheralproxy, Peripheral Proxy
+OpenPeripheral:ticketmachine, Ticket Machine
 openprinter:openprinter.printer, Open Printer
 openprinter:openprinter.shredder, Open Shredder
 openprinter:openprinter.filecabinet, Open File Cabinet
@@ -11184,7 +11184,7 @@ Railcraft:part.plate:0, Iron Plate
 Railcraft:part.plate:1, Steel Plate
 Railcraft:part.plate:2, Tin Plate
 Railcraft:part.plate:3, Copper Plate
-Railcraft:part.plate:4, item.railcraft.part.plate.lead.name
+Railcraft:part.plate:4, Lead Plate
 Railcraft:dust:0, Obsidian Dust
 Railcraft:dust:1, Sulfur
 Railcraft:dust:2, Saltpeter
@@ -11208,6 +11208,7 @@ Railcraft:cart.track.relayer:0, Track Relayer Cart
 Railcraft:cart.undercutter:0, Undercutter Cart
 Railcraft:cart.track.layer:0, Track Layer Cart
 Railcraft:cart.track.remover:0, Track Remover Cart
+Railcraft:tool.notepad, Trackman's Notepad
 Railcraft:cart.tank:0, Tank Cart
 Railcraft:cart.cargo:0, Cargo Cart
 Railcraft:upgrade.lapotron, item.railcraft.upgrade.lapotron.name

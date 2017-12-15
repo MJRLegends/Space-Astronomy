@@ -8,7 +8,6 @@ NEI.hide("JotatosPracticalities:vaultPart");
 NEI.hide("eplus:enchantment_scroll");
 NEI.hide("ae2wct:magnetCard");
 NEI.hide("PneumaticCraft:plasticPlant");
-NEI.hide("harvestcraft:market");
 NEI.hide("Aroma1997Core:wrenched");
 NEI.hide("BiblioCraft:BookcaseFilled");
 NEI.hide("TConstruct:creativeModifier");
