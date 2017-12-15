@@ -4493,7 +4493,7 @@ extracells:hardmedrive, Blast resistant ME Drive [WIP]
 extracells:vibrantchamberfluid, Fluid Vibration Chamber
 ExtraUtilities:chestMini, Mini-Chest
 ExtraUtilities:chestFull, Slightly Larger Chest
-ExtraUtilities:endConstructor:0, QED (Quadratic Equation Device)
+ExtraUtilities:endConstructor:0, QED (Quantum Entanglement Diviner)
 ExtraUtilities:endConstructor:2, Ender-Flux Crystal
 ExtraUtilities:endMarker, Ender-Marker
 ExtraUtilities:curtains, Blackout Curtains
@@ -5047,7 +5047,6 @@ IronChest:BlockIronChest:4, Silver Chest
 IronChest:BlockIronChest:5, Crystal Chest
 IronChest:BlockIronChest:6, Obsidian Chest
 IronChest:BlockIronChest:7, DirtChest 9000!
-jaff:tank, Fish Tank
 LogisticsPipes:logisticsSolidBlock:0, Soldering Station
 LogisticsPipes:logisticsSolidBlock:1, Logistics Power Junction
 LogisticsPipes:logisticsSolidBlock:2, Logistics Security Station
@@ -6476,6 +6475,7 @@ cfm:electricfence, tile.electricfence.name
 cfm:doorbell, tile.doorbell.name
 cfm:firealarmoff, tile.firealarmoff.name
 cfm:firealarmon, tile.firealarmon.name
+cfm:ceilinglightoff, tile.ceilinglightoff.name
 minecraft:record_13, Music Disc
 minecraft:record_cat, Music Disc
 minecraft:record_blocks, Music Disc
@@ -6488,7 +6488,6 @@ minecraft:record_strad, Music Disc
 minecraft:record_ward, Music Disc
 minecraft:record_11, Music Disc
 minecraft:record_wait, Music Disc
-cfm:ceilinglightoff, tile.ceilinglightoff.name
 cfm:ceilinglighton, tile.ceilinglighton.name
 cfm:stereo, tile.stereo.name
 cfm:toilet, tile.toilet.name
@@ -13436,7 +13435,6 @@ eplus:enchantment_scroll:0, Enchanted Scroll
 eplus:enchantment_scroll:0, Enchanted Scroll
 eplus:enchantment_scroll:0, Enchanted Scroll
 eplus:enchantment_scroll:0, Enchanted Scroll
-eplus:enchantment_scroll:0, Enchanted Scroll
 eplus:tomb_guardian:0, Tome: Enchanted Guardian
 eplus:tomb_guardian:0, Tome: Enchanted Guardian
 eplus:tomb_guardian:0, Tome: Enchanted Guardian
@@ -13842,18 +13840,6 @@ IronChest:diamondCrystalUpgrade, Diamond to Crystal Chest Upgrade
 IronChest:woodIronUpgrade, Wood to Iron Chest Upgrade
 IronChest:woodCopperUpgrade, Wood to Copper Chest Upgrade
 IronChest:diamondObsidianUpgrade, Diamond to Obsidian Chest Upgrade
-jaff:fish_spawn_egg:1, Spawn Cod
-jaff:fish_spawn_egg:2, Spawn Salmon
-jaff:fish_spawn_egg:3, Spawn Clownfish
-jaff:fish_spawn_egg:4, Spawn Pufferfish
-jaff:fish_bucket, Bucket with
-jaff:iron_nugget, Iron Nugget
-jaff:iron_hook, Iron Fish Hook
-jaff:fish_bones, Fish Bones
-jaff:wooden_fishing_rod, Wooden Fishing Rod
-jaff:iron_fishing_rod, Iron Fishing Rod
-jaff:golden_fishing_rod, Gold Fishing Rod
-jaff:diamond_fishing_rod, Diamond Fishing Rod
 LogisticsPipes:item.logisticsItemCard:0, Logistics Item Card
 LogisticsPipes:item.remoteOrdererItem, item.remoteOrdererItem.name
 LogisticsPipes:item.ItemPipeSignCreator, item.ItemPipeSignCreator.name
@@ -20674,7 +20660,6 @@ ThermalDynamics:cover:0, Heated Coke Oven Wall Cover
 ThermalDynamics:cover:0, Coke Oven Port Cover
 ThermalDynamics:cover:0, Fluix Wire Coil Cover
 ThermalDynamics:cover:0, Dense Wire Coil Cover
-ThermalDynamics:cover:0, Fish Tank Cover
 ThermalDynamics:cover:0, Player Sensor Cover
 ThermalDynamics:cover:0, Rusty Ladder Cover
 ThermalDynamics:cover:0, Uranium Ore Cover
