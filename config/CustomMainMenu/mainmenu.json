@@ -128,7 +128,7 @@
 			"tooltip": "View Changelog!",
             "action": {
                 "type": "openLink",
-                "link": "http://pastebin.com/Zmx3n72i"
+                "link": "https://pastebin.com/Zmx3n72i"
             }
 		},
 		"knownissues": 
@@ -143,7 +143,7 @@
 			"tooltip": "View Known Issues!",
             "action": {
                 "type": "openLink",
-                "link": "http://pastebin.com/R73aBeqA"
+                "link": "https://pastebin.com/R73aBeqA"
             }
 		},
 		"sevrerfiles": 
@@ -158,7 +158,7 @@
 			"tooltip": "Get Server Files!",
             "action": {
                 "type": "openLink",
-                "link": "http://ftb.cursecdn.com/FTB2/modpacks/SpaceAstronomy/1_6_0/SpaceAstronomyServer.zip"
+                "link": "http://ftb.cursecdn.com/FTB2/modpacks/SpaceAstronomy/1_6_2/SpaceAstronomyServer.zip"
             }
 		},
 		"curse": 
@@ -220,7 +220,7 @@
         },
 		"modpackversion":
         {
-            "text" : "Mod Pack Version - V1.6.0",
+            "text" : "Mod Pack Version - V1.6.2",
             "posX" : 2,
             "posY" : -10,
             "color" : -2,

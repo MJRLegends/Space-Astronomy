@@ -250,11 +250,40 @@ minecraft:log2:0, Acacia Wood
 minecraft:log2:1, Dark Oak Wood
 minecraft:acacia_stairs, Acacia Wood Stairs
 minecraft:dark_oak_stairs, Dark Oak Wood Stairs
-IC2:blockOreCopper, ic2.blockOreCopper.name
-IC2:blockOreTin, ic2.blockOreTin.name
-IC2:blockOreUran, ic2.blockOreUran.name
-IC2:blockOreLead, ic2.blockOreLead.name
-IC2:blockRubWood, ic2.blockRubWood.name
+additionalcompression:compressed_cobblestone:8, Nonuple Compressed Cobblestone
+additionalcompression:compressed_cobblestone:9, Decuple Compressed Cobblestone
+additionalcompression:compressed_stone:0, Single Compressed Stone
+additionalcompression:compressed_stone:1, Double Compressed Stone
+additionalcompression:compressed_stone:2, Triple Compressed Stone
+additionalcompression:compressed_stone:3, Quadruple Compressed Stone
+additionalcompression:compressed_stone:4, Quintuple Compressed Stone
+additionalcompression:compressed_stone:5, Sextuple Compressed Stone
+additionalcompression:compressed_stone:6, Septuple Compressed Stone
+additionalcompression:compressed_stone:7, Octuple Compressed Stone
+additionalcompression:compressed_stone:8, Nonuple Compressed Stone
+additionalcompression:compressed_stone:9, Decuple Compressed Stone
+additionalcompression:compressed_gravel:2, Triple Compressed Gravel
+additionalcompression:compressed_gravel:3, Quadruple Compressed Gravel
+additionalcompression:compressed_gravel:4, Quintuple Compressed Gravel
+additionalcompression:compressed_gravel:5, Sextuple Compressed Gravel
+additionalcompression:compressed_gravel:6, Septuple Compressed Gravel
+additionalcompression:compressed_gravel:7, Octuple Compressed Gravel
+additionalcompression:compressed_gravel:8, Nonuple Compressed Gravel
+additionalcompression:compressed_gravel:9, Decuple Compressed Gravel
+additionalcompression:compressed_blocksand:2, Triple Compressed Sand
+additionalcompression:compressed_blocksand:3, Quadruple Compressed Sand
+additionalcompression:compressed_blocksand:4, Quintuple Compressed Sand
+additionalcompression:compressed_blocksand:5, Sextuple Compressed Sand
+additionalcompression:compressed_blocksand:6, Septuple Compressed Sand
+additionalcompression:compressed_blocksand:7, Octuple Compressed Sand
+additionalcompression:compressed_blocksand:8, Nonuple Compressed Sand
+additionalcompression:compressed_blocksand:9, Decuple Compressed Sand
+additionalcompression:compressed_dirt:4, Quintuple Compressed Dirt
+additionalcompression:compressed_dirt:5, Sextuple Compressed Dirt
+additionalcompression:compressed_dirt:6, Septuple Compressed Dirt
+additionalcompression:compressed_dirt:7, Octuple Compressed Dirt
+additionalcompression:compressed_dirt:8, Nonuple Compressed Dirt
+additionalcompression:compressed_dirt:9, Decuple Compressed Dirt
 minecraft:hay_block, Hay Bale
 minecraft:carpet:0, Carpet
 minecraft:carpet:1, Orange Carpet
@@ -281,6 +310,148 @@ minecraft:double_plant:2, Double Tallgrass
 minecraft:double_plant:3, Large Fern
 minecraft:double_plant:4, Rose Bush
 minecraft:double_plant:5, Peony
+additionalcompression:compressed_clay:0, Single Compressed Clay
+additionalcompression:compressed_clay:1, Double Compressed Clay
+additionalcompression:compressed_clay:2, Triple Compressed Clay
+additionalcompression:compressed_clay:3, Quadruple Compressed Clay
+additionalcompression:compressed_clay:4, Quintuple Compressed Clay
+additionalcompression:compressed_clay:5, Sextuple Compressed Clay
+additionalcompression:compressed_clay:6, Septuple Compressed Clay
+additionalcompression:compressed_clay:7, Octuple Compressed Clay
+additionalcompression:compressed_clay:8, Nonuple Compressed Clay
+additionalcompression:compressed_clay:9, Decuple Compressed Clay
+additionalcompression:compressed_cobblestonemossy:0, Single Compressed Mossy Cobblestone
+additionalcompression:compressed_cobblestonemossy:1, Double Compressed Mossy Cobblestone
+additionalcompression:compressed_cobblestonemossy:2, Triple Compressed Mossy Cobblestone
+additionalcompression:compressed_cobblestonemossy:3, Quadruple Compressed Mossy Cobblestone
+additionalcompression:compressed_cobblestonemossy:4, Quintuple Compressed Mossy Cobblestone
+additionalcompression:compressed_cobblestonemossy:5, Sextuple Compressed Mossy Cobblestone
+additionalcompression:compressed_cobblestonemossy:6, Septuple Compressed Mossy Cobblestone
+additionalcompression:compressed_cobblestonemossy:7, Octuple Compressed Mossy Cobblestone
+additionalcompression:compressed_cobblestonemossy:8, Nonuple Compressed Mossy Cobblestone
+additionalcompression:compressed_cobblestonemossy:9, Decuple Compressed Mossy Cobblestone
+additionalcompression:compressed_netherrack:0, Single Compressed Netherrack
+additionalcompression:compressed_netherrack:1, Double Compressed Netherrack
+additionalcompression:compressed_netherrack:2, Triple Compressed Netherrack
+additionalcompression:compressed_netherrack:3, Quadruple Compressed Netherrack
+additionalcompression:compressed_netherrack:4, Quintuple Compressed Netherrack
+additionalcompression:compressed_netherrack:5, Sextuple Compressed Netherrack
+additionalcompression:compressed_netherrack:6, Septuple Compressed Netherrack
+additionalcompression:compressed_netherrack:7, Octuple Compressed Netherrack
+additionalcompression:compressed_netherrack:8, Nonuple Compressed Netherrack
+additionalcompression:compressed_netherrack:9, Decuple Compressed Netherrack
+additionalcompression:compressed_soulsand:0, Single Compressed Soul Sand
+additionalcompression:compressed_soulsand:1, Double Compressed Soul Sand
+additionalcompression:compressed_soulsand:2, Triple Compressed Soul Sand
+additionalcompression:compressed_soulsand:3, Quadruple Compressed Soul Sand
+additionalcompression:compressed_soulsand:4, Quintuple Compressed Soul Sand
+additionalcompression:compressed_soulsand:5, Sextuple Compressed Soul Sand
+additionalcompression:compressed_soulsand:6, Septuple Compressed Soul Sand
+additionalcompression:compressed_soulsand:7, Octuple Compressed Soul Sand
+additionalcompression:compressed_soulsand:8, Nonuple Compressed Soul Sand
+additionalcompression:compressed_soulsand:9, Decuple Compressed Soul Sand
+additionalcompression:compressed_endstone:0, Single Compressed End Stone
+additionalcompression:compressed_endstone:1, Double Compressed End Stone
+additionalcompression:compressed_endstone:2, Triple Compressed End Stone
+additionalcompression:compressed_endstone:3, Quadruple Compressed End Stone
+additionalcompression:compressed_endstone:4, Quintuple Compressed End Stone
+additionalcompression:compressed_endstone:5, Sextuple Compressed End Stone
+additionalcompression:compressed_endstone:6, Septuple Compressed End Stone
+additionalcompression:compressed_endstone:7, Octuple Compressed End Stone
+additionalcompression:compressed_endstone:8, Nonuple Compressed End Stone
+additionalcompression:compressed_endstone:9, Decuple Compressed End Stone
+additionalcompression:compressed_cropwheat:1, Double Compressed Wheat
+additionalcompression:compressed_cropwheat:2, Triple Compressed Wheat
+additionalcompression:compressed_croppotato:0, Single Compressed Potatoes
+additionalcompression:compressed_croppotato:1, Double Compressed Potatoes
+additionalcompression:compressed_croppotato:2, Triple Compressed Potatoes
+additionalcompression:compressed_cropcarrot:0, Single Compressed Carrots
+additionalcompression:compressed_cropcarrot:1, Double Compressed Carrots
+additionalcompression:compressed_cropcarrot:2, Triple Compressed Carrots
+additionalcompression:compressed_cropmelon:1, Double Compressed Melon
+additionalcompression:compressed_cropmelon:2, Triple Compressed Melon
+additionalcompression:compressed_cropapple:0, Single Compressed Apples
+additionalcompression:compressed_cropapple:1, Double Compressed Apples
+additionalcompression:compressed_cropapple:2, Triple Compressed Apples
+additionalcompression:compressed_cropsugarcane:0, Single Compressed Sugar Cane
+additionalcompression:compressed_cropsugarcane:1, Double Compressed Sugar Cane
+additionalcompression:compressed_cropsugarcane:2, Triple Compressed Sugar Cane
+additionalcompression:compressed_cropsugarcane:3, Quadruple Compressed Sugar Cane
+additionalcompression:compressed_cropsugarcane:4, Quintuple Compressed Sugar Cane
+additionalcompression:compressed_cropnetherwart:0, Single Compressed Nether Wart
+additionalcompression:compressed_cropnetherwart:1, Double Compressed Nether Wart
+additionalcompression:compressed_cropnetherwart:2, Triple Compressed Nether Wart
+additionalcompression:compressed_meatporkchop:0, Single Compressed Porkchop
+additionalcompression:compressed_meatporkchop:1, Double Compressed Porkchop
+additionalcompression:compressed_meatporkchop:2, Triple Compressed Porkchop
+additionalcompression:compressed_meatbeef:0, Single Compressed Beef
+additionalcompression:compressed_meatbeef:1, Double Compressed Beef
+additionalcompression:compressed_meatbeef:2, Triple Compressed Beef
+additionalcompression:compressed_meatchicken:0, Single Compressed Chicken
+additionalcompression:compressed_meatchicken:1, Double Compressed Chicken
+additionalcompression:compressed_meatchicken:2, Triple Compressed Chicken
+additionalcompression:compressed_meatfish:0, Single Compressed Fish
+additionalcompression:compressed_meatfish:1, Double Compressed Fish
+additionalcompression:compressed_meatfish:2, Triple Compressed Fish
+additionalcompression:compressed_meatrotten:0, Single Compressed Rotten Flesh
+additionalcompression:compressed_meatrotten:1, Double Compressed Rotten Flesh
+additionalcompression:compressed_meatrotten:2, Triple Compressed Rotten Flesh
+additionalcompression:compressed_meatrotten:3, Quadruple Compressed Rotten Flesh
+additionalcompression:compressed_meatrotten:4, Quintuple Compressed Rotten Flesh
+additionalcompression:compressed_bone:0, Single Compressed Bones
+additionalcompression:compressed_bone:1, Double Compressed Bones
+additionalcompression:compressed_bone:2, Triple Compressed Bones
+additionalcompression:compressed_spidereye:0, Single Compressed Spider Eyes
+additionalcompression:compressed_spidereye:1, Double Compressed Spider Eyes
+additionalcompression:compressed_spidereye:2, Triple Compressed Spider Eyes
+additionalcompression:compressed_feather:0, Single Compressed Feathers
+additionalcompression:compressed_feather:1, Double Compressed Feathers
+additionalcompression:compressed_feather:2, Triple Compressed Feathers
+additionalcompression:compressed_leather:0, Single Compressed Leather
+additionalcompression:compressed_leather:1, Double Compressed Leather
+additionalcompression:compressed_leather:2, Triple Compressed Leather
+additionalcompression:compressed_rodblaze:0, Single Compressed Blaze
+additionalcompression:compressed_rodblaze:1, Double Compressed Blaze
+additionalcompression:compressed_rodblaze:2, Triple Compressed Blaze
+additionalcompression:compressed_pearlender:0, Single Compressed Ender Pearl
+additionalcompression:compressed_pearlender:1, Double Compressed Ender Pearl
+additionalcompression:compressed_pearlender:2, Triple Compressed Ender Pearl
+additionalcompression:compressed_dustgunpowder:0, Single Compressed Gunpowder
+additionalcompression:compressed_dustgunpowder:1, Double Compressed Gunpowder
+additionalcompression:compressed_dustgunpowder:2, Triple Compressed Gunpowder
+additionalcompression:compressed_dustsugar:0, Single Compressed Sugar
+additionalcompression:compressed_dustsugar:1, Double Compressed Sugar
+additionalcompression:compressed_dustsugar:2, Triple Compressed Sugar
+additionalcompression:compressed_egg:0, Single Compressed Eggs
+additionalcompression:compressed_egg:1, Double Compressed Eggs
+additionalcompression:compressed_egg:2, Triple Compressed Eggs
+additionalcompression:compressed_egg:3, Quadruple Compressed Eggs
+additionalcompression:compressed_egg:4, Quintuple Compressed Eggs
+additionalcompression:compressed_logwood:0, Single Compressed Wood
+additionalcompression:compressed_logwood:1, Double Compressed Wood
+additionalcompression:compressed_logwood:2, Triple Compressed Wood
+additionalcompression:compressed_ingotiron:1, Double Compressed Iron
+additionalcompression:compressed_ingotiron:2, Triple Compressed Iron
+additionalcompression:compressed_ingotgold:1, Double Compressed Gold
+additionalcompression:compressed_ingotgold:2, Triple Compressed Gold
+additionalcompression:compressed_gemlapis:1, Double Compressed Lapis Lazuli
+additionalcompression:compressed_gemlapis:2, Triple Compressed Lapis Lazuli
+additionalcompression:compressed_dustredstone:1, Double Compressed Redstone
+additionalcompression:compressed_dustredstone:2, Triple Compressed Redstone
+additionalcompression:compressed_gemdiamond:1, Double Compressed Diamond
+additionalcompression:compressed_gemdiamond:2, Triple Compressed Diamond
+additionalcompression:compressed_gememerald:1, Double Compressed Emerald
+additionalcompression:compressed_gememerald:2, Triple Compressed Emerald
+additionalcompression:compressed_itemnetherstar, %s Nether Star
+additionalcompression:compressed_cookie, %s Cookies
+additionalcompression:compressed_bread, %s Bread
+additionalcompression:compressed_bottlewater, %s Water Bottles
+additionalcompression:compressed_bucketlava, %s Lava Buckets
+IC2:blockOreCopper, ic2.blockOreCopper.name
+IC2:blockOreTin, ic2.blockOreTin.name
+IC2:blockOreUran, ic2.blockOreUran.name
+IC2:blockOreLead, ic2.blockOreLead.name
+IC2:blockRubWood, ic2.blockRubWood.name
 IC2:blockRubLeaves, ic2.blockRubLeaves.name
 IC2:blockRubSapling, ic2.blockRubSapling.name
 IC2:blockHarz, ic2.blockHarz.name
@@ -398,53 +569,6 @@ IC2:blockPersonal:2, ic2.blockPersonalTraderEnergy
 IC2:blockITNT, ic2.blockITNT.name
 IC2:blockNuke, ic2.blockNuke.name
 IC2:blockDynamite, ic2.blockDynamite.name
-IC2:blockDynamiteRemote, ic2.blockDynamiteRemote.name
-IC2:blockCrop, ic2.blockCrop.name
-IC2:blockBarrel, ic2.blockBarrel.name
-IC2:fluidUuMatter, ic2.fluidUuMatter.name
-IC2:fluidConstructionFoam, ic2.fluidConstructionFoam.name
-IC2:fluidCoolant, ic2.fluidCoolant.name
-IC2:fluidHotCoolant, ic2.fluidHotCoolant.name
-IC2:fluidPahoehoeLava, ic2.fluidPahoehoeLava.name
-IC2:fluidBiomass, ic2.fluidBiomass.name
-IC2:fluidBiogas, ic2.fluidBiogas.name
-IC2:fluidDistilledWater, ic2.fluidDistilledWater.name
-IC2:fluidSuperheatedSteam, ic2.fluidSuperheatedSteam.name
-IC2:fluidSteam, ic2.fluidSteam.name
-IC2:fluidHotWater, ic2.fluidHotWater.name
-advancedgenetics:dnaanalyser, DNA Analyser
-advancedgenetics:dnaextractor, DNA Extractor
-advancedgenetics:dnaencoder, DNA Decrypter
-advancedgenetics:dnasplitter, DNA Splitter
-advancedgenetics:dnabreeder, DNA Breeder
-advancedgenetics:centrifuge, Centrifuge
-advancedgenetics:dnacombiner, DNA Combiner
-advancedgenetics:dnaremover, DNA Remover
-advancedgenetics:dnatransmutator, DNA Transmutator
-advancedgenetics:dnaautosplitter, DNA Auto Splitter
-advancedgenetics:combustiongenerator, Combustion Generator
-advancedgenetics:combustiongeneratoridle, Combustion Generator
-advancedgenetics:deathenderchest, Death Enderchest
-advancedgenetics:microscope, Microscope
-advancedgenetics:healcrystalblock, Heal Crystal
-advancedgenetics:autoscraper, Auto Scraper
-advancedgenetics:dnainsulator, DNA Insulator
-advancedgenetics:dnacloner, DNA Cloner
-advancedgenetics:homeostasistube, tile.homeostasisTube.name
-AdvancedSolarPanel:BlockMolecularTransformer, tile.null.name
-AdvancedSolarPanel:BlockAdvSolarPanel:0, Advanced Solar Panel
-AdvancedSolarPanel:BlockAdvSolarPanel:1, Hybrid Solar Panel
-AdvancedSolarPanel:BlockAdvSolarPanel:2, Ultimate Hybrid Solar Panel
-AdvancedSolarPanel:BlockAdvSolarPanel:3, Quantum Solar Panel
-AdvancedSolarPanel:BlockAdvSolarPanel:4, Quantum Generator
-appliedenergistics2:tile.OreQuartz, Certus Quartz Ore
-appliedenergistics2:tile.OreQuartzCharged, Charged Certus Quartz Ore
-appliedenergistics2:tile.BlockMatrixFrame, Matrix Frame
-appliedenergistics2:tile.BlockQuartz, Certus Quartz Block
-appliedenergistics2:tile.BlockQuartzPillar, Certus Quartz Pillar
-appliedenergistics2:tile.BlockQuartzChiseled, Chiseled Certus Quartz Block
-appliedenergistics2:tile.BlockQuartzGlass, Quartz Glass
-appliedenergistics2:tile.BlockQuartzLamp, Vibrant Quartz Glass
 minecraft:iron_shovel, Iron Shovel
 minecraft:iron_pickaxe, Iron Pickaxe
 minecraft:iron_axe, Iron Axe
@@ -709,6 +833,59 @@ minecraft:netherbrick, Nether Brick
 minecraft:quartz, Nether Quartz
 minecraft:tnt_minecart, TNT Cart
 minecraft:hopper_minecart, Hopper Cart
+IC2:blockDynamiteRemote, ic2.blockDynamiteRemote.name
+IC2:blockCrop, ic2.blockCrop.name
+IC2:blockBarrel, ic2.blockBarrel.name
+IC2:fluidUuMatter, ic2.fluidUuMatter.name
+IC2:fluidConstructionFoam, ic2.fluidConstructionFoam.name
+IC2:fluidCoolant, ic2.fluidCoolant.name
+IC2:fluidHotCoolant, ic2.fluidHotCoolant.name
+IC2:fluidPahoehoeLava, ic2.fluidPahoehoeLava.name
+minecraft:iron_horse_armor, Iron Horse Armor
+minecraft:golden_horse_armor, Gold Horse Armor
+minecraft:diamond_horse_armor, Diamond Horse Armor
+minecraft:lead, Lead
+minecraft:name_tag, Name Tag
+minecraft:command_block_minecart, Minecart with Command Block
+IC2:fluidBiomass, ic2.fluidBiomass.name
+IC2:fluidBiogas, ic2.fluidBiogas.name
+IC2:fluidDistilledWater, ic2.fluidDistilledWater.name
+IC2:fluidSuperheatedSteam, ic2.fluidSuperheatedSteam.name
+IC2:fluidSteam, ic2.fluidSteam.name
+IC2:fluidHotWater, ic2.fluidHotWater.name
+advancedgenetics:dnaanalyser, DNA Analyser
+advancedgenetics:dnaextractor, DNA Extractor
+advancedgenetics:dnaencoder, DNA Decrypter
+advancedgenetics:dnasplitter, DNA Splitter
+advancedgenetics:dnabreeder, DNA Breeder
+advancedgenetics:centrifuge, Centrifuge
+advancedgenetics:dnacombiner, DNA Combiner
+advancedgenetics:dnaremover, DNA Remover
+advancedgenetics:dnatransmutator, DNA Transmutator
+advancedgenetics:dnaautosplitter, DNA Auto Splitter
+advancedgenetics:combustiongenerator, Combustion Generator
+advancedgenetics:combustiongeneratoridle, Combustion Generator
+advancedgenetics:deathenderchest, Death Enderchest
+advancedgenetics:microscope, Microscope
+advancedgenetics:healcrystalblock, Heal Crystal
+advancedgenetics:autoscraper, Auto Scraper
+advancedgenetics:dnainsulator, DNA Insulator
+advancedgenetics:dnacloner, DNA Cloner
+advancedgenetics:homeostasistube, tile.homeostasisTube.name
+AdvancedSolarPanel:BlockMolecularTransformer, tile.null.name
+AdvancedSolarPanel:BlockAdvSolarPanel:0, Advanced Solar Panel
+AdvancedSolarPanel:BlockAdvSolarPanel:1, Hybrid Solar Panel
+AdvancedSolarPanel:BlockAdvSolarPanel:2, Ultimate Hybrid Solar Panel
+AdvancedSolarPanel:BlockAdvSolarPanel:3, Quantum Solar Panel
+AdvancedSolarPanel:BlockAdvSolarPanel:4, Quantum Generator
+appliedenergistics2:tile.OreQuartz, Certus Quartz Ore
+appliedenergistics2:tile.OreQuartzCharged, Charged Certus Quartz Ore
+appliedenergistics2:tile.BlockMatrixFrame, Matrix Frame
+appliedenergistics2:tile.BlockQuartz, Certus Quartz Block
+appliedenergistics2:tile.BlockQuartzPillar, Certus Quartz Pillar
+appliedenergistics2:tile.BlockQuartzChiseled, Chiseled Certus Quartz Block
+appliedenergistics2:tile.BlockQuartzGlass, Quartz Glass
+appliedenergistics2:tile.BlockQuartzLamp, Vibrant Quartz Glass
 appliedenergistics2:tile.BlockQuartzTorch, Charged Quartz Fixture
 appliedenergistics2:tile.BlockFluix, Fluix Block
 appliedenergistics2:tile.BlockSkyStone:0, Sky Stone
@@ -721,12 +898,6 @@ appliedenergistics2:tile.BlockSkyCompass, Meteorite Compass
 appliedenergistics2:tile.BlockGrinder, Quartz Grindstone
 appliedenergistics2:tile.BlockCrank, Wooden Crank
 appliedenergistics2:tile.BlockInscriber, Inscriber
-minecraft:iron_horse_armor, Iron Horse Armor
-minecraft:golden_horse_armor, Gold Horse Armor
-minecraft:diamond_horse_armor, Diamond Horse Armor
-minecraft:lead, Lead
-minecraft:name_tag, Name Tag
-minecraft:command_block_minecart, Minecart with Command Block
 appliedenergistics2:tile.BlockWireless, ME Wireless Access Point
 appliedenergistics2:tile.BlockCharger, Charger
 appliedenergistics2:tile.BlockTinyTNT, Tiny TNT
@@ -4245,6 +4416,38 @@ computronics:computronics.digitalReceiverBox, Digital Signal Receiver Box
 computronics:computronics.digitalControllerBox, Digital Signal Controller Box
 computronics:computronics.detector, Detector - Digital
 computronics:computronics.ticketMachine, Ticket Machine
+one_point_twelve_concrete:concrete_powder_white, tile.concrete_powder_white.name
+one_point_twelve_concrete:concrete_white, tile.concrete_white.name
+one_point_twelve_concrete:concrete_powder_orange, tile.concrete_powder_orange.name
+one_point_twelve_concrete:concrete_orange, tile.concrete_orange.name
+one_point_twelve_concrete:concrete_powder_magenta, tile.concrete_powder_magenta.name
+one_point_twelve_concrete:concrete_magenta, tile.concrete_magenta.name
+one_point_twelve_concrete:concrete_powder_lightBlue, tile.concrete_powder_lightBlue.name
+one_point_twelve_concrete:concrete_lightBlue, tile.concrete_lightBlue.name
+one_point_twelve_concrete:concrete_powder_yellow, tile.concrete_powder_yellow.name
+one_point_twelve_concrete:concrete_yellow, tile.concrete_yellow.name
+one_point_twelve_concrete:concrete_powder_lime, tile.concrete_powder_lime.name
+one_point_twelve_concrete:concrete_lime, tile.concrete_lime.name
+one_point_twelve_concrete:concrete_powder_pink, tile.concrete_powder_pink.name
+one_point_twelve_concrete:concrete_pink, tile.concrete_pink.name
+one_point_twelve_concrete:concrete_powder_gray, tile.concrete_powder_gray.name
+one_point_twelve_concrete:concrete_gray, tile.concrete_gray.name
+one_point_twelve_concrete:concrete_powder_silver, tile.concrete_powder_silver.name
+one_point_twelve_concrete:concrete_silver, tile.concrete_silver.name
+one_point_twelve_concrete:concrete_powder_cyan, tile.concrete_powder_cyan.name
+one_point_twelve_concrete:concrete_cyan, tile.concrete_cyan.name
+one_point_twelve_concrete:concrete_powder_purple, tile.concrete_powder_purple.name
+one_point_twelve_concrete:concrete_purple, tile.concrete_purple.name
+one_point_twelve_concrete:concrete_powder_blue, tile.concrete_powder_blue.name
+one_point_twelve_concrete:concrete_blue, tile.concrete_blue.name
+one_point_twelve_concrete:concrete_powder_brown, tile.concrete_powder_brown.name
+one_point_twelve_concrete:concrete_brown, tile.concrete_brown.name
+one_point_twelve_concrete:concrete_powder_green, tile.concrete_powder_green.name
+one_point_twelve_concrete:concrete_green, tile.concrete_green.name
+one_point_twelve_concrete:concrete_powder_red, tile.concrete_powder_red.name
+one_point_twelve_concrete:concrete_red, tile.concrete_red.name
+one_point_twelve_concrete:concrete_powder_black, tile.concrete_powder_black.name
+one_point_twelve_concrete:concrete_black, tile.concrete_black.name
 props:blockProps, tile.null.name
 props:blockFake, tile.null.name
 deepresonance:oreResonating, Resonating Ore
@@ -4669,7 +4872,7 @@ TConstruct:Redstone.Landmine:1, Landmine
 TConstruct:Redstone.Landmine:2, Landmine
 TConstruct:Redstone.Landmine:3, Landmine
 TConstruct:Armor.DryingRack, Drying Rack
-ExtraUtilities:endConstructor:0, QED (Quantum Entity Device)
+ExtraUtilities:endConstructor:0, QED (Quantum Ender Diviner)
 ExtraUtilities:endConstructor:2, Ender-Flux Crystal
 ExtraUtilities:endMarker, Ender-Marker
 ExtraUtilities:curtains, Blackout Curtains
@@ -6273,6 +6476,18 @@ cfm:ceilinglightoff, tile.ceilinglightoff.name
 cfm:ceilinglighton, tile.ceilinglighton.name
 cfm:stereo, tile.stereo.name
 cfm:toilet, tile.toilet.name
+minecraft:record_13, Music Disc
+minecraft:record_cat, Music Disc
+minecraft:record_blocks, Music Disc
+minecraft:record_chirp, Music Disc
+minecraft:record_far, Music Disc
+minecraft:record_mall, Music Disc
+minecraft:record_mellohi, Music Disc
+minecraft:record_stal, Music Disc
+minecraft:record_strad, Music Disc
+minecraft:record_ward, Music Disc
+minecraft:record_11, Music Disc
+minecraft:record_wait, Music Disc
 cfm:basin, tile.basin.name
 cfm:wallcabinet, tile.wallcabinet.name
 cfm:bath1, tile.bath1.name
@@ -6395,18 +6610,6 @@ openmodularturrets:baseTierWood, Turret Base (Tier 1)
 openmodularturrets:baseTierOneBlock, Turret Base (Tier 2) 
 openmodularturrets:baseTierTwoBlock, Turret Base (Tier 3) 
 openmodularturrets:baseTierThreeBlock, Turret Base (Tier 4) 
-minecraft:record_13, Music Disc
-minecraft:record_cat, Music Disc
-minecraft:record_blocks, Music Disc
-minecraft:record_chirp, Music Disc
-minecraft:record_far, Music Disc
-minecraft:record_mall, Music Disc
-minecraft:record_mellohi, Music Disc
-minecraft:record_stal, Music Disc
-minecraft:record_strad, Music Disc
-minecraft:record_ward, Music Disc
-minecraft:record_11, Music Disc
-minecraft:record_wait, Music Disc
 openmodularturrets:baseTierFourBlock, Turret Base (Tier 5) 
 openmodularturrets:expanderPowerTierOne, Base Power Expander (Tier 1)
 openmodularturrets:expanderPowerTierTwo, Base Power Expander (Tier 2)
@@ -6439,12 +6642,12 @@ openmodularturrets:teleporterTurret, Teleporter Turret
 openmodularturrets:laserTurret, Laser Turret
 openmodularturrets:railGunTurret, Rail Gun Turret
 openmodularturrets:leverBlock, Basic Turret Base Crank
+OpenPeripheral:peripheralproxy, Peripheral Proxy
+OpenPeripheral:ticketmachine, Ticket Machine
 OpenPeripheral:glassesbridge, Terminal Glasses Bridge
 OpenPeripheral:pim, PIM
 OpenPeripheral:sensor, Sensor
 OpenPeripheral:selector, Item Selector
-OpenPeripheral:peripheralproxy, Peripheral Proxy
-OpenPeripheral:ticketmachine, Ticket Machine
 openprinter:openprinter.printer, Open Printer
 openprinter:openprinter.shredder, Open Shredder
 openprinter:openprinter.filecabinet, Open File Cabinet
@@ -7012,6 +7215,9 @@ ThermalDynamics:ThermalDynamics_64:0, Viaduct
 ThermalDynamics:ThermalDynamics_64:1, Long Range Viaduct
 ThermalDynamics:ThermalDynamics_64:2, Long Range Linking Viaduct
 ThermalDynamics:ThermalDynamics_64:3, Viaduct (Untreated)
+tinker_io:fuelInputMachine, Fuel Input Machine
+tinker_io:SmartOutput, Smart Output
+tinker_io:WhatABeautifulBlock, What a beautiful block
 TMechworks:RedstoneMachine:0, Drawbridge
 TMechworks:RedstoneMachine:1, Igniter
 TMechworks:RedstoneMachine:2, Advanced Drawbridge
@@ -7531,14 +7737,185 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Red Stained Clay
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Black Stained Clay
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Acacia Wood
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Dark Oak Wood
-appliedenergistics2:item.ItemFacade:0, Cable Facade - ic2.blockOreCopper
-appliedenergistics2:item.ItemFacade:0, Cable Facade - ic2.blockOreTin
-appliedenergistics2:item.ItemFacade:0, Cable Facade - ic2.blockOreUran
-appliedenergistics2:item.ItemFacade:0, Cable Facade - ic2.blockOreLead
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Nonuple Compressed Cobblestone
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Decuple Compressed Cobblestone
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Single Compressed Stone
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Double Compressed Stone
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Triple Compressed Stone
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Quadruple Compressed Stone
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Quintuple Compressed Stone
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Sextuple Compressed Stone
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Septuple Compressed Stone
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Octuple Compressed Stone
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Nonuple Compressed Stone
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Decuple Compressed Stone
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Triple Compressed Gravel
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Quadruple Compressed Gravel
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Quintuple Compressed Gravel
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Sextuple Compressed Gravel
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Septuple Compressed Gravel
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Octuple Compressed Gravel
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Nonuple Compressed Gravel
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Decuple Compressed Gravel
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Triple Compressed Sand
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Quadruple Compressed Sand
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Quintuple Compressed Sand
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Sextuple Compressed Sand
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Septuple Compressed Sand
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Octuple Compressed Sand
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Nonuple Compressed Sand
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Decuple Compressed Sand
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Quintuple Compressed Dirt
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Sextuple Compressed Dirt
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Septuple Compressed Dirt
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Octuple Compressed Dirt
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Nonuple Compressed Dirt
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Decuple Compressed Dirt
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Hay Bale
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Hardened Clay
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Coal
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Packed Ice
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Single Compressed Clay
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Double Compressed Clay
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Triple Compressed Clay
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Quadruple Compressed Clay
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Quintuple Compressed Clay
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Sextuple Compressed Clay
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Septuple Compressed Clay
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Octuple Compressed Clay
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Nonuple Compressed Clay
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Decuple Compressed Clay
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Single Compressed Mossy Cobblestone
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Double Compressed Mossy Cobblestone
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Triple Compressed Mossy Cobblestone
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Quadruple Compressed Mossy Cobblestone
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Quintuple Compressed Mossy Cobblestone
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Sextuple Compressed Mossy Cobblestone
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Septuple Compressed Mossy Cobblestone
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Octuple Compressed Mossy Cobblestone
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Nonuple Compressed Mossy Cobblestone
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Decuple Compressed Mossy Cobblestone
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Single Compressed Netherrack
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Double Compressed Netherrack
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Triple Compressed Netherrack
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Quadruple Compressed Netherrack
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Quintuple Compressed Netherrack
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Sextuple Compressed Netherrack
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Septuple Compressed Netherrack
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Octuple Compressed Netherrack
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Nonuple Compressed Netherrack
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Decuple Compressed Netherrack
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Single Compressed Soul Sand
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Double Compressed Soul Sand
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Triple Compressed Soul Sand
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Quadruple Compressed Soul Sand
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Quintuple Compressed Soul Sand
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Sextuple Compressed Soul Sand
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Septuple Compressed Soul Sand
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Octuple Compressed Soul Sand
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Nonuple Compressed Soul Sand
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Decuple Compressed Soul Sand
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Single Compressed End Stone
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Double Compressed End Stone
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Triple Compressed End Stone
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Quadruple Compressed End Stone
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Quintuple Compressed End Stone
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Sextuple Compressed End Stone
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Septuple Compressed End Stone
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Octuple Compressed End Stone
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Nonuple Compressed End Stone
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Decuple Compressed End Stone
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Double Compressed Wheat
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Triple Compressed Wheat
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Single Compressed Potatoes
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Double Compressed Potatoes
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Triple Compressed Potatoes
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Single Compressed Carrots
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Double Compressed Carrots
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Triple Compressed Carrots
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Double Compressed Melon
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Triple Compressed Melon
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Single Compressed Apples
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Double Compressed Apples
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Triple Compressed Apples
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Single Compressed Sugar Cane
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Double Compressed Sugar Cane
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Triple Compressed Sugar Cane
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Quadruple Compressed Sugar Cane
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Quintuple Compressed Sugar Cane
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Single Compressed Nether Wart
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Double Compressed Nether Wart
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Triple Compressed Nether Wart
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Single Compressed Porkchop
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Double Compressed Porkchop
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Triple Compressed Porkchop
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Single Compressed Beef
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Double Compressed Beef
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Triple Compressed Beef
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Single Compressed Chicken
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Double Compressed Chicken
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Triple Compressed Chicken
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Single Compressed Fish
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Double Compressed Fish
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Triple Compressed Fish
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Single Compressed Rotten Flesh
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Double Compressed Rotten Flesh
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Triple Compressed Rotten Flesh
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Quadruple Compressed Rotten Flesh
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Quintuple Compressed Rotten Flesh
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Single Compressed Bones
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Double Compressed Bones
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Triple Compressed Bones
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Single Compressed Spider Eyes
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Double Compressed Spider Eyes
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Triple Compressed Spider Eyes
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Single Compressed Feathers
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Double Compressed Feathers
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Triple Compressed Feathers
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Single Compressed Leather
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Double Compressed Leather
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Triple Compressed Leather
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Single Compressed Blaze
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Double Compressed Blaze
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Triple Compressed Blaze
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Single Compressed Ender Pearl
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Double Compressed Ender Pearl
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Triple Compressed Ender Pearl
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Single Compressed Gunpowder
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Double Compressed Gunpowder
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Triple Compressed Gunpowder
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Single Compressed Sugar
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Double Compressed Sugar
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Triple Compressed Sugar
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Single Compressed Eggs
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Double Compressed Eggs
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Triple Compressed Eggs
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Quadruple Compressed Eggs
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Quintuple Compressed Eggs
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Single Compressed Wood
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Double Compressed Wood
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Triple Compressed Wood
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Double Compressed Iron
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Triple Compressed Iron
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Double Compressed Gold
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Triple Compressed Gold
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Double Compressed Lapis Lazuli
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Triple Compressed Lapis Lazuli
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Double Compressed Redstone
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Triple Compressed Redstone
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Double Compressed Diamond
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Triple Compressed Diamond
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Double Compressed Emerald
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Triple Compressed Emerald
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Nether Star
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Cookies
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Bread
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Water Bottles
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Lava Buckets
+appliedenergistics2:item.ItemFacade:0, Cable Facade - ic2.blockOreCopper
+appliedenergistics2:item.ItemFacade:0, Cable Facade - ic2.blockOreTin
+appliedenergistics2:item.ItemFacade:0, Cable Facade - ic2.blockOreUran
+appliedenergistics2:item.ItemFacade:0, Cable Facade - ic2.blockOreLead
 appliedenergistics2:item.ItemFacade:0, Cable Facade - ic2.blockAlloy
 appliedenergistics2:item.ItemFacade:0, Cable Facade - ic2.blockBasalt
 appliedenergistics2:item.ItemFacade:0, Cable Facade - ic2.blockMetalCopper
@@ -9406,6 +9783,38 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - §dMagenta Plastic Road
 appliedenergistics2:item.ItemFacade:0, Cable Facade - §6Orange Plastic Road
 appliedenergistics2:item.ItemFacade:0, Cable Facade - §fWhite Plastic Road
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Salt Block
+appliedenergistics2:item.ItemFacade:0, Cable Facade - White Concrete Powder
+appliedenergistics2:item.ItemFacade:0, Cable Facade - White Concrete
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Orange Concrete Powder
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Orange Concrete
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Magenta Concrete Powder
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Magenta Concrete
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Light Blue Concrete Powder
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Light Blue Concrete
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Yellow Concrete Powder
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Yellow Concrete
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Lime Concrete Powder
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Lime Concrete
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Pink Concrete Powder
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Pink Concrete
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Gray Concrete Powder
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Gray Concrete
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Light Gray Concrete Powder
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Light Gray Concrete
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Cyan Concrete Powder
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Cyan Concrete
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Purple Concrete Powder
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Purple Concrete
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Blue Concrete Powder
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Blue Concrete
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Brown Concrete Powder
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Brown Concrete
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Green Concrete Powder
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Green Concrete
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Red Concrete Powder
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Red Concrete
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Black Concrete Powder
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Black Concrete
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Resonating Ore
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Dense Obsidian
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Poisoned Dirt
@@ -12619,6 +13028,8 @@ deepresonance:radiationSuit0, Radiation Suit Helmet (WIP)
 deepresonance:radiationSuit1, Radiation Suit Chestplate (WIP)
 deepresonance:radiationSuit2, Radiation Suit Leggings (WIP)
 deepresonance:radiationSuit3, Radiation Suit Boots (WIP)
+eiorteis:itemGRMix, Glowstone-Redstone-Mixture
+eiorteis:itemIngotSteelBase, Steel Alloy Base
 eplus:tableUpgrade, Table Upgrade
 eplus:enchantment_scroll:0, Enchanted Scroll
 eplus:enchantment_scroll:0, Enchanted Scroll
@@ -16560,11 +16971,40 @@ ThermalDynamics:cover:0, Acacia Wood Cover
 ThermalDynamics:cover:0, Dark Oak Wood Cover
 ThermalDynamics:cover:0, Acacia Wood Stairs Cover
 ThermalDynamics:cover:0, Dark Oak Wood Stairs Cover
-ThermalDynamics:cover:0, ic2.blockOreCopper Cover
-ThermalDynamics:cover:0, ic2.blockOreTin Cover
-ThermalDynamics:cover:0, ic2.blockOreUran Cover
-ThermalDynamics:cover:0, ic2.blockOreLead Cover
-ThermalDynamics:cover:0, ic2.blockRubWood Cover
+ThermalDynamics:cover:0, Nonuple Compressed Cobblestone Cover
+ThermalDynamics:cover:0, Decuple Compressed Cobblestone Cover
+ThermalDynamics:cover:0, Single Compressed Stone Cover
+ThermalDynamics:cover:0, Double Compressed Stone Cover
+ThermalDynamics:cover:0, Triple Compressed Stone Cover
+ThermalDynamics:cover:0, Quadruple Compressed Stone Cover
+ThermalDynamics:cover:0, Quintuple Compressed Stone Cover
+ThermalDynamics:cover:0, Sextuple Compressed Stone Cover
+ThermalDynamics:cover:0, Septuple Compressed Stone Cover
+ThermalDynamics:cover:0, Octuple Compressed Stone Cover
+ThermalDynamics:cover:0, Nonuple Compressed Stone Cover
+ThermalDynamics:cover:0, Decuple Compressed Stone Cover
+ThermalDynamics:cover:0, Triple Compressed Gravel Cover
+ThermalDynamics:cover:0, Quadruple Compressed Gravel Cover
+ThermalDynamics:cover:0, Quintuple Compressed Gravel Cover
+ThermalDynamics:cover:0, Sextuple Compressed Gravel Cover
+ThermalDynamics:cover:0, Septuple Compressed Gravel Cover
+ThermalDynamics:cover:0, Octuple Compressed Gravel Cover
+ThermalDynamics:cover:0, Nonuple Compressed Gravel Cover
+ThermalDynamics:cover:0, Decuple Compressed Gravel Cover
+ThermalDynamics:cover:0, Triple Compressed Sand Cover
+ThermalDynamics:cover:0, Quadruple Compressed Sand Cover
+ThermalDynamics:cover:0, Quintuple Compressed Sand Cover
+ThermalDynamics:cover:0, Sextuple Compressed Sand Cover
+ThermalDynamics:cover:0, Septuple Compressed Sand Cover
+ThermalDynamics:cover:0, Octuple Compressed Sand Cover
+ThermalDynamics:cover:0, Nonuple Compressed Sand Cover
+ThermalDynamics:cover:0, Decuple Compressed Sand Cover
+ThermalDynamics:cover:0, Quintuple Compressed Dirt Cover
+ThermalDynamics:cover:0, Sextuple Compressed Dirt Cover
+ThermalDynamics:cover:0, Septuple Compressed Dirt Cover
+ThermalDynamics:cover:0, Octuple Compressed Dirt Cover
+ThermalDynamics:cover:0, Nonuple Compressed Dirt Cover
+ThermalDynamics:cover:0, Decuple Compressed Dirt Cover
 ThermalDynamics:cover:0, Hay Bale Cover
 ThermalDynamics:cover:0, Carpet Cover
 ThermalDynamics:cover:0, Orange Carpet Cover
@@ -16591,6 +17031,148 @@ ThermalDynamics:cover:0, Double Tallgrass Cover
 ThermalDynamics:cover:0, Large Fern Cover
 ThermalDynamics:cover:0, Rose Bush Cover
 ThermalDynamics:cover:0, Peony Cover
+ThermalDynamics:cover:0, Single Compressed Clay Cover
+ThermalDynamics:cover:0, Double Compressed Clay Cover
+ThermalDynamics:cover:0, Triple Compressed Clay Cover
+ThermalDynamics:cover:0, Quadruple Compressed Clay Cover
+ThermalDynamics:cover:0, Quintuple Compressed Clay Cover
+ThermalDynamics:cover:0, Sextuple Compressed Clay Cover
+ThermalDynamics:cover:0, Septuple Compressed Clay Cover
+ThermalDynamics:cover:0, Octuple Compressed Clay Cover
+ThermalDynamics:cover:0, Nonuple Compressed Clay Cover
+ThermalDynamics:cover:0, Decuple Compressed Clay Cover
+ThermalDynamics:cover:0, Single Compressed Mossy Cobblestone Cover
+ThermalDynamics:cover:0, Double Compressed Mossy Cobblestone Cover
+ThermalDynamics:cover:0, Triple Compressed Mossy Cobblestone Cover
+ThermalDynamics:cover:0, Quadruple Compressed Mossy Cobblestone Cover
+ThermalDynamics:cover:0, Quintuple Compressed Mossy Cobblestone Cover
+ThermalDynamics:cover:0, Sextuple Compressed Mossy Cobblestone Cover
+ThermalDynamics:cover:0, Septuple Compressed Mossy Cobblestone Cover
+ThermalDynamics:cover:0, Octuple Compressed Mossy Cobblestone Cover
+ThermalDynamics:cover:0, Nonuple Compressed Mossy Cobblestone Cover
+ThermalDynamics:cover:0, Decuple Compressed Mossy Cobblestone Cover
+ThermalDynamics:cover:0, Single Compressed Netherrack Cover
+ThermalDynamics:cover:0, Double Compressed Netherrack Cover
+ThermalDynamics:cover:0, Triple Compressed Netherrack Cover
+ThermalDynamics:cover:0, Quadruple Compressed Netherrack Cover
+ThermalDynamics:cover:0, Quintuple Compressed Netherrack Cover
+ThermalDynamics:cover:0, Sextuple Compressed Netherrack Cover
+ThermalDynamics:cover:0, Septuple Compressed Netherrack Cover
+ThermalDynamics:cover:0, Octuple Compressed Netherrack Cover
+ThermalDynamics:cover:0, Nonuple Compressed Netherrack Cover
+ThermalDynamics:cover:0, Decuple Compressed Netherrack Cover
+ThermalDynamics:cover:0, Single Compressed Soul Sand Cover
+ThermalDynamics:cover:0, Double Compressed Soul Sand Cover
+ThermalDynamics:cover:0, Triple Compressed Soul Sand Cover
+ThermalDynamics:cover:0, Quadruple Compressed Soul Sand Cover
+ThermalDynamics:cover:0, Quintuple Compressed Soul Sand Cover
+ThermalDynamics:cover:0, Sextuple Compressed Soul Sand Cover
+ThermalDynamics:cover:0, Septuple Compressed Soul Sand Cover
+ThermalDynamics:cover:0, Octuple Compressed Soul Sand Cover
+ThermalDynamics:cover:0, Nonuple Compressed Soul Sand Cover
+ThermalDynamics:cover:0, Decuple Compressed Soul Sand Cover
+ThermalDynamics:cover:0, Single Compressed End Stone Cover
+ThermalDynamics:cover:0, Double Compressed End Stone Cover
+ThermalDynamics:cover:0, Triple Compressed End Stone Cover
+ThermalDynamics:cover:0, Quadruple Compressed End Stone Cover
+ThermalDynamics:cover:0, Quintuple Compressed End Stone Cover
+ThermalDynamics:cover:0, Sextuple Compressed End Stone Cover
+ThermalDynamics:cover:0, Septuple Compressed End Stone Cover
+ThermalDynamics:cover:0, Octuple Compressed End Stone Cover
+ThermalDynamics:cover:0, Nonuple Compressed End Stone Cover
+ThermalDynamics:cover:0, Decuple Compressed End Stone Cover
+ThermalDynamics:cover:0, Double Compressed Wheat Cover
+ThermalDynamics:cover:0, Triple Compressed Wheat Cover
+ThermalDynamics:cover:0, Single Compressed Potatoes Cover
+ThermalDynamics:cover:0, Double Compressed Potatoes Cover
+ThermalDynamics:cover:0, Triple Compressed Potatoes Cover
+ThermalDynamics:cover:0, Single Compressed Carrots Cover
+ThermalDynamics:cover:0, Double Compressed Carrots Cover
+ThermalDynamics:cover:0, Triple Compressed Carrots Cover
+ThermalDynamics:cover:0, Double Compressed Melon Cover
+ThermalDynamics:cover:0, Triple Compressed Melon Cover
+ThermalDynamics:cover:0, Single Compressed Apples Cover
+ThermalDynamics:cover:0, Double Compressed Apples Cover
+ThermalDynamics:cover:0, Triple Compressed Apples Cover
+ThermalDynamics:cover:0, Single Compressed Sugar Cane Cover
+ThermalDynamics:cover:0, Double Compressed Sugar Cane Cover
+ThermalDynamics:cover:0, Triple Compressed Sugar Cane Cover
+ThermalDynamics:cover:0, Quadruple Compressed Sugar Cane Cover
+ThermalDynamics:cover:0, Quintuple Compressed Sugar Cane Cover
+ThermalDynamics:cover:0, Single Compressed Nether Wart Cover
+ThermalDynamics:cover:0, Double Compressed Nether Wart Cover
+ThermalDynamics:cover:0, Triple Compressed Nether Wart Cover
+ThermalDynamics:cover:0, Single Compressed Porkchop Cover
+ThermalDynamics:cover:0, Double Compressed Porkchop Cover
+ThermalDynamics:cover:0, Triple Compressed Porkchop Cover
+ThermalDynamics:cover:0, Single Compressed Beef Cover
+ThermalDynamics:cover:0, Double Compressed Beef Cover
+ThermalDynamics:cover:0, Triple Compressed Beef Cover
+ThermalDynamics:cover:0, Single Compressed Chicken Cover
+ThermalDynamics:cover:0, Double Compressed Chicken Cover
+ThermalDynamics:cover:0, Triple Compressed Chicken Cover
+ThermalDynamics:cover:0, Single Compressed Fish Cover
+ThermalDynamics:cover:0, Double Compressed Fish Cover
+ThermalDynamics:cover:0, Triple Compressed Fish Cover
+ThermalDynamics:cover:0, Single Compressed Rotten Flesh Cover
+ThermalDynamics:cover:0, Double Compressed Rotten Flesh Cover
+ThermalDynamics:cover:0, Triple Compressed Rotten Flesh Cover
+ThermalDynamics:cover:0, Quadruple Compressed Rotten Flesh Cover
+ThermalDynamics:cover:0, Quintuple Compressed Rotten Flesh Cover
+ThermalDynamics:cover:0, Single Compressed Bones Cover
+ThermalDynamics:cover:0, Double Compressed Bones Cover
+ThermalDynamics:cover:0, Triple Compressed Bones Cover
+ThermalDynamics:cover:0, Single Compressed Spider Eyes Cover
+ThermalDynamics:cover:0, Double Compressed Spider Eyes Cover
+ThermalDynamics:cover:0, Triple Compressed Spider Eyes Cover
+ThermalDynamics:cover:0, Single Compressed Feathers Cover
+ThermalDynamics:cover:0, Double Compressed Feathers Cover
+ThermalDynamics:cover:0, Triple Compressed Feathers Cover
+ThermalDynamics:cover:0, Single Compressed Leather Cover
+ThermalDynamics:cover:0, Double Compressed Leather Cover
+ThermalDynamics:cover:0, Triple Compressed Leather Cover
+ThermalDynamics:cover:0, Single Compressed Blaze Cover
+ThermalDynamics:cover:0, Double Compressed Blaze Cover
+ThermalDynamics:cover:0, Triple Compressed Blaze Cover
+ThermalDynamics:cover:0, Single Compressed Ender Pearl Cover
+ThermalDynamics:cover:0, Double Compressed Ender Pearl Cover
+ThermalDynamics:cover:0, Triple Compressed Ender Pearl Cover
+ThermalDynamics:cover:0, Single Compressed Gunpowder Cover
+ThermalDynamics:cover:0, Double Compressed Gunpowder Cover
+ThermalDynamics:cover:0, Triple Compressed Gunpowder Cover
+ThermalDynamics:cover:0, Single Compressed Sugar Cover
+ThermalDynamics:cover:0, Double Compressed Sugar Cover
+ThermalDynamics:cover:0, Triple Compressed Sugar Cover
+ThermalDynamics:cover:0, Single Compressed Eggs Cover
+ThermalDynamics:cover:0, Double Compressed Eggs Cover
+ThermalDynamics:cover:0, Triple Compressed Eggs Cover
+ThermalDynamics:cover:0, Quadruple Compressed Eggs Cover
+ThermalDynamics:cover:0, Quintuple Compressed Eggs Cover
+ThermalDynamics:cover:0, Single Compressed Wood Cover
+ThermalDynamics:cover:0, Double Compressed Wood Cover
+ThermalDynamics:cover:0, Triple Compressed Wood Cover
+ThermalDynamics:cover:0, Double Compressed Iron Cover
+ThermalDynamics:cover:0, Triple Compressed Iron Cover
+ThermalDynamics:cover:0, Double Compressed Gold Cover
+ThermalDynamics:cover:0, Triple Compressed Gold Cover
+ThermalDynamics:cover:0, Double Compressed Lapis Lazuli Cover
+ThermalDynamics:cover:0, Triple Compressed Lapis Lazuli Cover
+ThermalDynamics:cover:0, Double Compressed Redstone Cover
+ThermalDynamics:cover:0, Triple Compressed Redstone Cover
+ThermalDynamics:cover:0, Double Compressed Diamond Cover
+ThermalDynamics:cover:0, Triple Compressed Diamond Cover
+ThermalDynamics:cover:0, Double Compressed Emerald Cover
+ThermalDynamics:cover:0, Triple Compressed Emerald Cover
+ThermalDynamics:cover:0, Block of Nether Star Cover
+ThermalDynamics:cover:0, Block of Cookies Cover
+ThermalDynamics:cover:0, Block of Bread Cover
+ThermalDynamics:cover:0, Block of Water Bottles Cover
+ThermalDynamics:cover:0, Block of Lava Buckets Cover
+ThermalDynamics:cover:0, ic2.blockOreCopper Cover
+ThermalDynamics:cover:0, ic2.blockOreTin Cover
+ThermalDynamics:cover:0, ic2.blockOreUran Cover
+ThermalDynamics:cover:0, ic2.blockOreLead Cover
+ThermalDynamics:cover:0, ic2.blockRubWood Cover
 ThermalDynamics:cover:0, ic2.blockRubLeaves Cover
 ThermalDynamics:cover:0, ic2.blockRubSapling Cover
 ThermalDynamics:cover:0, ic2.blockHarz Cover
@@ -19288,6 +19870,38 @@ ThermalDynamics:cover:0, §dMagenta Plastic Barrier Cover
 ThermalDynamics:cover:0, §6Orange Plastic Barrier Cover
 ThermalDynamics:cover:0, §fWhite Plastic Barrier Cover
 ThermalDynamics:cover:0, Salt Block Cover
+ThermalDynamics:cover:0, White Concrete Powder Cover
+ThermalDynamics:cover:0, White Concrete Cover
+ThermalDynamics:cover:0, Orange Concrete Powder Cover
+ThermalDynamics:cover:0, Orange Concrete Cover
+ThermalDynamics:cover:0, Magenta Concrete Powder Cover
+ThermalDynamics:cover:0, Magenta Concrete Cover
+ThermalDynamics:cover:0, Light Blue Concrete Powder Cover
+ThermalDynamics:cover:0, Light Blue Concrete Cover
+ThermalDynamics:cover:0, Yellow Concrete Powder Cover
+ThermalDynamics:cover:0, Yellow Concrete Cover
+ThermalDynamics:cover:0, Lime Concrete Powder Cover
+ThermalDynamics:cover:0, Lime Concrete Cover
+ThermalDynamics:cover:0, Pink Concrete Powder Cover
+ThermalDynamics:cover:0, Pink Concrete Cover
+ThermalDynamics:cover:0, Gray Concrete Powder Cover
+ThermalDynamics:cover:0, Gray Concrete Cover
+ThermalDynamics:cover:0, Light Gray Concrete Powder Cover
+ThermalDynamics:cover:0, Light Gray Concrete Cover
+ThermalDynamics:cover:0, Cyan Concrete Powder Cover
+ThermalDynamics:cover:0, Cyan Concrete Cover
+ThermalDynamics:cover:0, Purple Concrete Powder Cover
+ThermalDynamics:cover:0, Purple Concrete Cover
+ThermalDynamics:cover:0, Blue Concrete Powder Cover
+ThermalDynamics:cover:0, Blue Concrete Cover
+ThermalDynamics:cover:0, Brown Concrete Powder Cover
+ThermalDynamics:cover:0, Brown Concrete Cover
+ThermalDynamics:cover:0, Green Concrete Powder Cover
+ThermalDynamics:cover:0, Green Concrete Cover
+ThermalDynamics:cover:0, Red Concrete Powder Cover
+ThermalDynamics:cover:0, Red Concrete Cover
+ThermalDynamics:cover:0, Black Concrete Powder Cover
+ThermalDynamics:cover:0, Black Concrete Cover
 ThermalDynamics:cover:0, Resonating Ore Cover
 ThermalDynamics:cover:0, Resonating Plate Block Cover
 ThermalDynamics:cover:0, Dense Obsidian Cover
@@ -21103,6 +21717,7 @@ ThermalDynamics:cover:0, Hawthorn Trim Cover
 ThermalDynamics:cover:0, Treated Wood Trim Cover
 ThermalDynamics:cover:0, Livingwood Trim Cover
 ThermalDynamics:cover:0, Dreamwood Trim Cover
+ThermalDynamics:cover:0, What a beautiful block Cover
 ThermalDynamics:cover:0, Empty Mesh Filter Cover
 ThermalDynamics:cover:0, Wide Mesh Filter Cover
 ThermalDynamics:cover:0, Slat Mesh Filter Cover
@@ -21115,6 +21730,16 @@ ThermalDynamics:retriever:2, Reinforced Retriever
 ThermalDynamics:retriever:3, Signalum Retriever
 ThermalDynamics:retriever:4, Resonant Retriever
 ThermalDynamics:relay:0, Redstone Relay
+tinker_io:SpeedUPG, Speed Upgrade
+tinker_io:SolidFuel, Solid Fuel
+tinker_io:Upgrade:0, Base Upgrade
+tinker_io:Upgrade:1, Slot Upgrade I
+tinker_io:Upgrade:2, Slot Upgrade II
+tinker_io:Upgrade:3, Slot Upgrade III
+tinker_io:Upgrade:4, Slot Upgrade IV
+tinker_io:Upgrade:5, Redstone Upgrade
+tinker_io:Upgrade:6, Slot Upgrade Infinity
+tinker_io:CD_Lonesome_Avenue, Music Disc
 TMechworks:LengthWire, Length of Wire
 TMechworks:SpoolWire:0, Spool of Wire
 ForgeMicroblock:sawStone, Stone Saw

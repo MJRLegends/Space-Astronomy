@@ -48,6 +48,8 @@ myEntry2.add(<AdvancedSolarPanel:asp_crafting_items:10>);
 
 // ================================================================================
 //#MARKER REMOVE
+recipes.remove(<ExtraUtilities:curtains>);
+recipes.remove(<cfm:ItemCouch>);
 recipes.remove(<EnderIO:itemMaterial:10>);
 recipes.remove(<OpenComputers:item:111> * 6);
 recipes.remove(<JotatosPracticalities:diamondShard> * 9);
@@ -211,6 +213,8 @@ recipes.addShapeless(<IC2:itemBarrel>,[<ore:woodRubber>, <ore:plankWood>, <ore:p
 
 // ================================================================================
 //#MARKER ADD SHAPED
+recipes.addShaped(<ExtraUtilities:curtains> * 12, [[<ore:blockWool>, <ore:blockWool>, <ore:blockWool>], [<ore:blockWool>, <ore:blockWool>, <ore:blockWool>], [null, null, null]]);
+recipes.addShaped(<cfm:ItemCouch>, [[null, null, null], [<ore:blockWool>, <ore:blockWool>, <ore:blockWool>], [<ore:blockWool>, <ore:blockWool>, <ore:blockWool>]]);
 recipes.addShaped(<JotatosPracticalities:diamondShard> * 9, [[<ore:gemDiamond>, null, null], [null, null, null], [null, null, null]]);
 recipes.addShaped(<OpenComputers:item:111> * 6, [[null, <ore:gemDiamond>, null], [null, null, null], [null, null, null]]);
 recipes.addShaped(<EnderIO:itemMaterial:10>, [[null, null, <ore:gemDiamond>], [null, null, null], [null, null, null]]);
