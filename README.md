@@ -1,3 +1,5 @@
+[![](http://cf.way2muchnoise.eu/full_space-astronomy_downloads.svg)](https://minecraft.curseforge.com/projects/space-astronomy)
+
 # Space-Astronomy
 Configs & Scripts for the Space Astronomy Mod Pack
 
